@@ -1,0 +1,4 @@
+# Add list of domains to block here.
+
+macpaw.com
+setapp.com
