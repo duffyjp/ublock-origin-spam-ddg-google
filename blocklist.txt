@@ -1,4 +1,6 @@
+duckduckgo.*##.results > div:has(a[href*="drfone.wondershare.com"])
 duckduckgo.*##.results > div:has(a[href*="macpaw.com"])
 duckduckgo.*##.results > div:has(a[href*="setapp.com"])
+google.*##.g:has(a[href*="drfone.wondershare.com"])
 google.*##.g:has(a[href*="macpaw.com"])
 google.*##.g:has(a[href*="setapp.com"])

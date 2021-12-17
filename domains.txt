@@ -1,4 +1,7 @@
 # Add list of domains to block here.
 
+apeaksoft.com
+drfone.wondershare.com
 macpaw.com
+nektony.com
 setapp.com
