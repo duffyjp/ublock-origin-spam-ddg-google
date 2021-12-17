@@ -5,7 +5,7 @@ Remove blatant spam domains from DuckDuckGo and Google results.
 * uBlock Origin -> Gear Icon
 * Filter Lists Tab
 * Custom -> Import
-* paste in TODO: FILE_NAME_HERE
+* paste in https://raw.githubusercontent.com/duffyjp/ublock-origin-spam-ddg-google/main/blocklist.txt
 
 
 # To block additional results:
