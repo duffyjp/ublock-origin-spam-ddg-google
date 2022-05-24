@@ -6,6 +6,7 @@ hevodata.com
 isunshare.com
 macpaw.com
 nektony.com
+netlify.app
 py4u.net
 python2.net
 rapidrepair.in
