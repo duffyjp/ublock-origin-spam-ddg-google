@@ -1,5 +1,6 @@
 # Add list of domains to block here.
 
+9to5answer.com
 apeaksoft.com
 drfone.wondershare.com
 hevodata.com
